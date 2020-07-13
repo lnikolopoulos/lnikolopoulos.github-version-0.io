@@ -11,9 +11,9 @@ title                    : "Lampros Nikolopoulos / School of Physical Sciences D
 title_separator          : "-"
 name                     : &name "Lampros Nikolopoulos"
 description              : &description "School of Physical Sciences DCU"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://lnikolopoulos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "lnikolopoulos/lnikolopoulos.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -84,11 +84,11 @@ author:
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "School of Physical Sciences, DCU"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : Dublin City University
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=zD4qA7QAAAAJ&hl=en"
   email            : Lampros.Nikolopoulos@dcu.ie
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "lampros-nikolopoulos-81b26a17a"
   orcid            : "https://orcid.org/0000-0002-5996-5400"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :

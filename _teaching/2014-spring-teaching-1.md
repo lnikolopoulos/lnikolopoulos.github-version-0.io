@@ -10,11 +10,14 @@ location: "City, Country"
 
 This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+PS223: Introduction to Methods of Classical Mechanics	
 ======
 
-Heading 2
+PS301: Quantum Mechanics II
 ======
 
-Heading 3
+PS412: Classical Electrodynamics
 ======
+
+PS451: Final Year Project
+=====
